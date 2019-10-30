@@ -209,7 +209,12 @@ version         1.0
          <zIndex>41</zIndex>         
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>true</showSnapshotDelay>
-      </video>             
+      </video>
+      <image name="md_marquee">
+         <pos>1.6 0.05</pos>
+         <origin>0 0</origin>
+         <maxSize>0.15 0.1</maxSize>
+      </image>                    
    </view>
    
 </theme>
